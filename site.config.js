@@ -2,9 +2,9 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "boudhayan",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/boudhayan.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "senior software engineer",
-    bio: "I develop everything.",
+    bio: "coding is fun.",
     email: "notboudhayan@gmail.com",
     linkedin: "boudhayanbiswas",
     github: "boudhayan",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "nocompiler",
+    title: "No Compiler 👨🏻‍💻",
     description: "welcome to nocompiler!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
