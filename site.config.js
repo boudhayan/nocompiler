@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "boudhayan",
+    name: "Boudhayan",
     image: "/boudhayan.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "senior software engineer",
+    role: "Senior Software Engineer",
     bio: "coding is fun.",
     email: "notboudhayan@gmail.com",
     linkedin: "boudhayanbiswas",
