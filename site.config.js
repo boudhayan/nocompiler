@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Algorithms in Swift`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/boudhayan/Algorithm-Solutions-In-Swift",
     },
   ],
   // blog setting (required)
